@@ -1,1 +1,1 @@
-# Google-maps-api
+This is a google Maps API project created using HTML,CSS and JavaScript. For making this API, you need to create your own API key. You can create it by visiting on this give site--->https://developers.google.com/maps/documentation/javascript/overview. In the given link. you need to enable some of the libraries.For that, you can simply watch any youtube video.
